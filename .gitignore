@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+.DS_Store
+.env
+data/
+results/
+models/*/
+*.keras
+*.h5
+.streamlit/secrets.toml
